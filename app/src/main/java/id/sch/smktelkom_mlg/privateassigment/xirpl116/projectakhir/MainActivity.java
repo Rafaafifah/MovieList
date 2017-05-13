@@ -130,10 +130,14 @@ public class MainActivity extends AppCompatActivity {
         public Fragment getItem(int position) {
             if (position == 0) {
                 return new HomeFragment();
-            } else
+
+            } else if (position == 1) {
                 // getItem is called to instantiate the fragment for the given page.
                 // Return a PlaceholderFragment (defined as a static inner class below).
+                return new KomediFragmet();
+            } else {
                 return PlaceholderFragment.newInstance(position + 1);
+            }
         }
 
         @Override
@@ -146,9 +150,9 @@ public class MainActivity extends AppCompatActivity {
         public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "SECTION 1";
+                    return "TOP VIEWS";
                 case 1:
-                    return "SECTION 2";
+                    return "RATING";
             }
             return null;
         }
