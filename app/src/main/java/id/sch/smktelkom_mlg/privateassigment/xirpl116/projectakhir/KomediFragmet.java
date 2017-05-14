@@ -75,7 +75,7 @@ public class KomediFragmet extends Fragment {
                             for (int i = 0; i < array.length(); i++) {
                                 JSONObject o = array.getJSONObject(i);
                                 KomediItem item = new KomediItem(
-                                        "https://image.tmdb.org/t/p/w500" + o.getString("poster_path"),
+                                        o.getString("poster_path"),
                                         o.getString("title")
                                 );
                                 KomediItems.add(item);

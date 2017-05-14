@@ -27,7 +27,7 @@ public class KomediDetailActivity extends AppCompatActivity {
     public TextView textViewRelease;
     public TextView textViewAnother;
     public ImageView imageViewPict;
-    public String url;
+    //public String url;
     private Integer mKey = null;
 
 
@@ -85,10 +85,10 @@ public class KomediDetailActivity extends AppCompatActivity {
                             textViewRelease.setText("Release Date " + "\n" + o.getString("release_date"));
                             textViewDesc.setText("Overview " + "\n" + o.getString("overview"));
                             textViewAnother.setText("Popularity : " + "\n" + o.getString("popularity"));
-                            url = o.getJSONObject("link").getString("url");
+                            //  url = o.getJSONObject("link").getString("url");
                             Glide
                                     .with(KomediDetailActivity.this)
-                                    .load("http://image.tmdb.org/t/p/w500" + o.getString("poster_path"))
+                                    .load("http://image.tmdb.org/t/p/w500" + o.getString("backdrop_path"))
                                     .into(imageViewPict);
                         } catch (JSONException e) {
                             e.printStackTrace();
