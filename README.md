@@ -41,9 +41,9 @@ Tabbed Activity->Swipe Views(ViewPager)</br>
  3. Memudahkan user untuk selalu update seputar rekomendasi film</br>
 Screenshoot Aplkasi</br>
 ![3.png](https://s10.postimg.org/93z5bm4ix/image.png)</br>
-![4.png](https://s14.postimg.org/q3rteu5sx/image.png)</br>
+![4.png](https://s14.postimg.org/q3rteu5sx/image.png)
 ![5.png](https://s28.postimg.org/mqzuk682l/image.png)</br>
-![6.png](https://s1.postimg.org/4a9fp8gwv/image.png)</br>
+![6.png](https://s1.postimg.org/4a9fp8gwv/image.png)
 
  
 
