@@ -23,9 +23,9 @@ Jenis Navigasi Yang Digunakan :</br>
 Tabbed Activity->Swipe Views(ViewPager)</br>
 ![1.png](https://s30.postimg.org/4v2a2964h/image.png)</br>
 ![2.png](https://s29.postimg.org/owy82wu9j/image.png)</br>
- Library dari Local Database yang digunakan pada Aplikasi
+ Library dari Local Database yang digunakan pada Aplikasi</br>
  
- Deskripsi Singkat Aplikasi
+ Deskripsi Singkat Aplikasi</br>
  Aplikasi MovieList adalah sebuah aplikasi yang dapat menampilkan list Movie Seputar Hollywood dan Bollywood Dunia</br>
  berupa Review Movies dan Komedi Movies. Menyediakan Rekomendasi Film 
  yang disertai gambar deskripsi dan lain-lain dari Web Terpercaya.Data movie Di ambil dari Website New York Time dan The Movies Db. 
@@ -34,7 +34,7 @@ Tabbed Activity->Swipe Views(ViewPager)</br>
  dengan meng-Klik list movie yang tampil. Untuk berpindah dari Review Movies ke Komedi Movies bisa dengan swp layar hanphone
  anda atau juga dengan meng-klik judul pada bagian tab yang ada. 
  Tampilan yang menarik dan simple membuat user mudah mengoperasikannya.
- Cocok digunakan untuk mengisi waktu luang atau mencari rekomendasi film untuk berakhir pekan.
+ Cocok digunakan untuk mengisi waktu luang atau mencari rekomendasi film untuk berakhir pekan.</br>
  Kelebihan Dari Aplikas MovieList</br>
  1. Mudah digunakan oleh user</br>
  2. Tampilan menarik dan simple</br>
