@@ -1,15 +1,15 @@
 # MovieList
 
-Link APK :</br>
+<p>Link APK :</p>
 http://www.mediafire.com/file/ip5gutk0lko02k7/app-release.apk</br>
 
 Nama : Ladinar Nanda Aprilia</br>
 Kelas/No urut  : XIRPL1/16</br>
-NIS :</br>
+NIS :4738/1457.070</br>
 Angkatan : 24</br>
 SMK TELKOM MALANG</br></br>
 
-Alamat API yang digunakan untuk Aplikasi :</br>
+<br>Alamat API yang digunakan untuk Aplikasi :</br>
 1.API digunakan pada fragment Review-Movies API/</br>
 https://api.nytimes.com/svc/movies/v2/reviews/search.json?api-key=211b58de33064238b255f09b04a38274</br>
 link untuk New York Time API : </br>
@@ -24,6 +24,11 @@ Tabbed Activity->Swipe Views(ViewPager)</br>
 ![1.png](https://s30.postimg.org/4v2a2964h/image.png)</br>
 ![2.png](https://s29.postimg.org/owy82wu9j/image.png)</br>
  Library dari Local Database yang digunakan pada Aplikasi</br></br>
+ 
+ Library lain yang digunakan : </br>
+ Recycleview</br>
+ Glide</br>
+ Volley</br>
  
  Deskripsi Singkat Aplikasi</br>
  Aplikasi MovieList adalah sebuah aplikasi yang dapat menampilkan list Movie Seputar Hollywood dan Bollywood Dunia</br>
