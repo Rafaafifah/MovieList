@@ -44,13 +44,13 @@
 
     <include layout="@layout/content_detail2" />
 
-    <!--<android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/buttonFav"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/fab_margin"
         app:layout_anchor="@id/app_bar"
         app:layout_anchorGravity="bottom|end"
-        app:srcCompat="@drawable/ic_language_black_24dp" />-->
+        app:srcCompat="@drawable/ic_favorite_black_24dp" />
 
 </android.support.design.widget.CoordinatorLayout>

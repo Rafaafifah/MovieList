@@ -4,7 +4,6 @@ import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -21,15 +20,14 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 public class KomediDetailActivity extends AppCompatActivity {
+
     private static final String URL_DATA = "https://api.themoviedb.org/3/discover/movie?with_genres=35&with_cast=23659&sort_by=revenue.desc&api_key=07a414c01835fd0e21580fe28c87a19f";
     public TextView textViewTitle;
     public TextView textViewDesc;
     public TextView textViewRelease;
     public TextView textViewAnother;
     public ImageView imageViewPict;
-    //public String url;
     private Integer mKey = null;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -55,14 +53,6 @@ public class KomediDetailActivity extends AppCompatActivity {
         textViewDesc = (TextView) findViewById(R.id.textViewDesc);
         textViewAnother = (TextView) findViewById(R.id.textViewAnother);
         imageViewPict = (ImageView) findViewById(R.id.imageViewDetail);
-
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                onBackPressed();
-            }
-        });
     }
 
     private void loadRecyclerViewData() {

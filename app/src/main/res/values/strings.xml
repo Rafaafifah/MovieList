@@ -7,6 +7,11 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_detail">DetailActivity</string>
     <string name="large_text">
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
         "Material is the metaphor.\n\n"
 
         "A material metaphor is the unifying theory of a rationalized space and a system of motion."
@@ -96,4 +101,5 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="title_activity_komedi_detail">KomediDetailActivity</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
 </resources>

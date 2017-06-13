@@ -1,5 +1,6 @@
 package id.sch.smktelkom_mlg.privateassigment.xirpl116.projectakhir;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -74,7 +75,9 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        if (id == R.id.action_favorite) {
+            Intent intent = new Intent(MainActivity.this, FavoriteActivity.class);
+            MainActivity.this.startActivity(intent);
             return true;
         }
 
@@ -143,7 +146,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public int getCount() {
             // Show 3 total pages.
-            return 2;
+            return 3;
         }
 
         @Override
