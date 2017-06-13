@@ -23,7 +23,8 @@ Jenis Navigasi Yang Digunakan :</br>
 Tabbed Activity->Swipe Views(ViewPager)</br>
 ![1.png](https://s30.postimg.org/4v2a2964h/image.png)</br>
 ![2.png](https://s29.postimg.org/owy82wu9j/image.png)</br>
- Library dari Local Database yang digunakan pada Aplikasi</br></br>
+ Library dari Local Database yang digunakan pada Aplikasi</br>
+ -SugarORM<br>
  
  Library lain yang digunakan : </br>
  Recycleview</br>
@@ -44,13 +45,15 @@ Tabbed Activity->Swipe Views(ViewPager)</br>
  1. Mudah digunakan oleh user</br>
  2. Tampilan menarik dan simple</br>
  3. Memudahkan user untuk selalu update seputar rekomendasi film</br></br>
+ 4. Bisa digunakan untuk melihat tampilan yang telah di jadikan favorite secara ofline</br></br>
 Screenshoot Aplkasi</br></br>
 ![3.png](https://s7.postimg.org/484fe1397/image.png)
 ![4.png](https://s30.postimg.org/xpfqxm1wx/image.png)
 ![5.png](https://s7.postimg.org/ifypgf5bv/image.png)
 ![6.png](https://s1.postimg.org/v359e4tdr/image.png)
+![Screenshot_2017_6_13_12_51_23.png](https://www.mediafire.com/?k1pc12kc9w13zq1)
+![Screenshot_2017_6_13_12_51_30.png](https://www.mediafire.com/?azwb5669qe3k10s)
 
 
  
-
 
