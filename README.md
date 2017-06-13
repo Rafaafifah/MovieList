@@ -50,7 +50,7 @@ Screenshoot Aplkasi</br></br>
 ![3.png](https://s7.postimg.org/484fe1397/image.png)
 ![4.png](https://s30.postimg.org/xpfqxm1wx/image.png)
 ![5.png](https://s7.postimg.org/ifypgf5bv/image.png)
-![6.png](https://s1.postimg.org/v359e4tdr/image.png)
+![6.png](https://s1.postimg.org/v359e4tdr/image.png)<br>
 !(http://www.mediafire.com/view/k1pc12kc9w13zq1/Screenshot_2017_6_13_12_51_23.png)
 !(http://www.mediafire.com/view/azwb5669qe3k10s/Screenshot_2017_6_13_12_51_30.png)
 
