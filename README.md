@@ -1,7 +1,7 @@
 # MovieList
 
 <p>Link APK :</p>
-http://www.mediafire.com/file/y7q6qwi7966t7vk/app-release.apk</br>
+http://www.mediafire.com/file/59sb4q3nbwzkk76/app-release.apk</br>
 
 Nama : Ladinar Nanda Aprilia</br>
 Kelas/No urut  : XIRPL1/16</br>
