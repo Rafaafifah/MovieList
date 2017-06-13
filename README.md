@@ -1,7 +1,7 @@
 # MovieList
 
 <p>Link APK :</p>
-http://www.mediafire.com/file/ip5gutk0lko02k7/app-release.apk</br>
+http://www.mediafire.com/file/y7q6qwi7966t7vk/app-release.apk</br>
 
 Nama : Ladinar Nanda Aprilia</br>
 Kelas/No urut  : XIRPL1/16</br>
@@ -44,15 +44,15 @@ Tabbed Activity->Swipe Views(ViewPager)</br>
  Kelebihan Dari Aplikas MovieList</br>
  1. Mudah digunakan oleh user</br>
  2. Tampilan menarik dan simple</br>
- 3. Memudahkan user untuk selalu update seputar rekomendasi film</br></br>
+ 3. Memudahkan user untuk selalu update seputar rekomendasi film</br>
  4. Bisa digunakan untuk melihat tampilan yang telah di jadikan favorite secara ofline</br></br>
 Screenshoot Aplkasi</br></br>
 ![3.png](https://s7.postimg.org/484fe1397/image.png)
 ![4.png](https://s30.postimg.org/xpfqxm1wx/image.png)
 ![5.png](https://s7.postimg.org/ifypgf5bv/image.png)
-![6.png](https://s1.postimg.org/v359e4tdr/image.png)
-![Screenshot_2017_6_13_12_51_23.png](https://www.mediafire.com/?k1pc12kc9w13zq1)
-![Screenshot_2017_6_13_12_51_30.png](https://www.mediafire.com/?azwb5669qe3k10s)
+![6.png](https://s1.postimg.org/v359e4tdr/image.png)<br>
+!(http://www.mediafire.com/view/k1pc12kc9w13zq1/Screenshot_2017_6_13_12_51_23.png)
+!(http://www.mediafire.com/view/azwb5669qe3k10s/Screenshot_2017_6_13_12_51_30.png)
 
 
  
